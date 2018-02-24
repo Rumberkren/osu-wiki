@@ -1,10 +1,9 @@
 # osu! Indonesia Tournament
-============================
+---------------------------
 osu! Indonesia Tournament is a competition where Indonesian players prove their skills to be the best in Indonesia. It is held annually since 2012.
 
 
 ## 2018 Rules
--------------
 osu! Indonesia Tournament # 8 (2018) will take place in two main stages, the Group Stage (which includes the 1st and 2nd Group Stage phases) as well as the Knock-Out stages (which includes Ro16 to the final phase). Here's a further explanation of each of the steps:
 
 Group Stage
