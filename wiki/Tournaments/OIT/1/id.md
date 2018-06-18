@@ -211,10 +211,11 @@
 ### Hadiah
 
 <details><summary>Hadiah</summary>
->Juara 1 - osu! Supporter Tag 2 Bulan  
->Juara 2 - osu! Supporter Tag 1 Bulan  
-> 
->sponsored by ticon and intermu (yang menghilang karena copious)
+
+> Juara 1 - osu! Supporter Tag 2 Bulan  
+> Juara 2 - osu! Supporter Tag 1 Bulan
+> sponsored by ticon and intermu (yang menghilang karena copious)
+
 </details>
   
   
