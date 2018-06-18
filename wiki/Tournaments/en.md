@@ -75,6 +75,19 @@ Unofficial tournaments/competitions hosted by the communities.
 |------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | - Choma - | [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 
+### ![](/wiki/shared/mode/osu.png) osu! Indonesia Tournament
+
+| Year | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|------|-------|-----|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [osu! Indonesia Tournament #1](/wiki/Tournaments/OIT/1) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #2](/wiki/Tournaments/OIT/2) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #3](/wiki/Tournaments/OIT/3) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #4](/wiki/Tournaments/OIT/4) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #5](/wiki/Tournaments/OIT/5) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #6](/wiki/Tournaments/OIT/6) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #7](/wiki/Tournaments/OIT/7) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+| [osu! Indonesia Tournament #8](/wiki/Tournaments/OIT/8) | 2018-01-27 | 2018-03-18 | #1 | #2 | #3 |
+
 See also
 --------
 
