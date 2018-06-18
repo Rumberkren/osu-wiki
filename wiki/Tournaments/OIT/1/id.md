@@ -19,14 +19,13 @@
 > 5.  Jadwal yang akan berlaku adalah jadwal yang telah disetujui oleh panitia.
 > 6.  Pemain diperbolehkan mengganti waktu pertandingan maksimal satu hari sebelum hari pertandingan yang telah ditentukan sebelumnya jika
 > kedua pemain dan panitia setuju untuk menggantinya.
-> 7.  Perebutan juara ketiga dilaksanakan selama  **4 hari**, dimulai dari tanggal  **13 Januari 2012**  dan Final dilaksanakan selama  **4
-> hari**, dimulai dari tanggal  **20 Januari 2012**
+> 7.  Perebutan juara ketiga dilaksanakan selama  **4 hari**, dimulai dari tanggal  **13 Januari 2012**  dan Final dilaksanakan selama  **4 hari**, dimulai dari tanggal  **20 Januari 2012**
 
 
 > **Pertandingan**  
 > 
 >		 1.  Panitia akan memberikan 10 list beatmap sekurang-kurangnya 5 hari sebelum babak pertandingan dimulai.
-> 		 2.  Setiap pertandingan akan berlangsung di Multi.
+> 	 2.  Setiap pertandingan akan berlangsung di Multi.
 >		 3.  Tipe Game adalah osu! Standard, Team Mode : Team VS, Win Condition : Score
 >		 4.  Panitia akan membuat room tempat bertanding dan akan dikunci. Password akan diberikan pada kedua pemain lewat PM.
 >		 5.  Setiap peserta wajib bersiap-siap 15 menit sebelum jadwal pertandingan yang telah dibuat.
