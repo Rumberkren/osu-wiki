@@ -115,156 +115,125 @@ Final
 **Map List**  
 <details>
 <br>
-<b>Babak Final</b>
-<details>
 
-1.  [IA - Six Trillion Years and Overnight Story [0108]](http://osu.ppy.sh/b/157861)
-2.  [Memme - BSPower Explosion [0108]](http://osu.ppy.sh/b/140937)
-3.  [Marguerite du Pre - Marie Antoinette [Another]](http://osu.ppy.sh/b/136640)
-4.  [xi - Ascension to Heaven [Death]](http://osu.ppy.sh/b/111680)
-5.  [Kucchy vs Akky - Yakumo ~ JOINT STRUGGLE [SOLO]](http://osu.ppy.sh/b/48098)
-6.  [Niko - Made of Fire [Oni]](http://osu.ppy.sh/b/40017)
-7.  [Rche - Todestrieb [Another]](http://osu.ppy.sh/b/129555)
-8.  [Inspector K - Disconnected Hardkore (CanBlaster Remix) [Unconnected]](http://osu.ppy.sh/b/108762)
-9.  [Yousei Teikoku - Kokou no Sousei [Chaos]](http://osu.ppy.sh/b/118068)
-10.  [Black Hole - Pluto [Challenge]](http://osu.ppy.sh/b/146957)  
-      
-    Tie Breaker :
-11.  [Furries in a Blender - Ridorii [Insane]](http://osu.ppy.sh/b/98496)
-</details>
-<br>
-  
-<b>Babak Perebutan Juara Tiga</b>
-<details>
 
-1.  [xi - Halcyon [Another]](http://osu.ppy.sh/b/73699)
-2.  [Basshunter - Ievan Polkka Trance Remix [BeuKirby]](http://osu.ppy.sh/b/66246)
-3.  [t+pazolite - Nous [Destruction]](http://osu.ppy.sh/b/134130)
-4.  [COOL&CREATE - Rapid Ensemble [Lunatic]](http://osu.ppy.sh/b/49067)
-5.  [Kucchy vs Akky - Satori ~3rd eyes~ [Lunatic]](http://osu.ppy.sh/b/50892)
-6.  [Pizuya's Cell x MyonMyon - Romantic Children [Lunatic]](http://osu.ppy.sh/b/68431)
-7.  [Ikareru Kin no Shishi - G59 [Another]](http://osu.ppy.sh/b/85513)
-8.  [Galdeira - Almagest [Another]](http://osu.ppy.sh/b/132167)
-9.  [Caravan Palace - Dragons [Insane]](http://osu.ppy.sh/b/145361)
-10.  [Katakiri Rekka - Answer [Insane]](http://osu.ppy.sh/b/127047)  
-      
-    Tie Breaker :
-11.  [Hatsune Miku - Rubik's Cube [7x7x7]](http://osu.ppy.sh/b/114635)
-</details>
-<br>
-  
-<b>Babak Semifinal</b>
-<details>
+> <b>Babak Final</b> <details>
+> 
+> 1.  [IA - Six Trillion Years and Overnight Story [0108]](http://osu.ppy.sh/b/157861)
+> 2.  [Memme - BSPower Explosion [0108]](http://osu.ppy.sh/b/140937)
+> 3.  [Marguerite du Pre - Marie Antoinette [Another]](http://osu.ppy.sh/b/136640)
+> 4.  [xi - Ascension to Heaven [Death]](http://osu.ppy.sh/b/111680)
+> 5.  [Kucchy vs Akky - Yakumo ~ JOINT STRUGGLE [SOLO]](http://osu.ppy.sh/b/48098)
+> 6.  [Niko - Made of Fire [Oni]](http://osu.ppy.sh/b/40017)
+> 7.  [Rche - Todestrieb [Another]](http://osu.ppy.sh/b/129555)
+> 8.  [Inspector K - Disconnected Hardkore (CanBlaster Remix) [Unconnected]](http://osu.ppy.sh/b/108762)
+> 9.  [Yousei Teikoku - Kokou no Sousei [Chaos]](http://osu.ppy.sh/b/118068)
+> 10.  [Black Hole - Pluto [Challenge]](http://osu.ppy.sh/b/146957)  
+>       
+>     Tie Breaker :
+> 11.  [Furries in a Blender - Ridorii [Insane]](http://osu.ppy.sh/b/98496) </details> <br>    <b>Babak
+> Perebutan Juara Tiga</b> <details>
+> 
+> 1.  [xi - Halcyon [Another]](http://osu.ppy.sh/b/73699)
+> 2.  [Basshunter - Ievan Polkka Trance Remix [BeuKirby]](http://osu.ppy.sh/b/66246)
+> 3.  [t+pazolite - Nous [Destruction]](http://osu.ppy.sh/b/134130)
+> 4.  [COOL&CREATE - Rapid Ensemble [Lunatic]](http://osu.ppy.sh/b/49067)
+> 5.  [Kucchy vs Akky - Satori ~3rd eyes~ [Lunatic]](http://osu.ppy.sh/b/50892)
+> 6.  [Pizuya's Cell x MyonMyon - Romantic Children [Lunatic]](http://osu.ppy.sh/b/68431)
+> 7.  [Ikareru Kin no Shishi - G59 [Another]](http://osu.ppy.sh/b/85513)
+> 8.  [Galdeira - Almagest [Another]](http://osu.ppy.sh/b/132167)
+> 9.  [Caravan Palace - Dragons [Insane]](http://osu.ppy.sh/b/145361)
+> 10.  [Katakiri Rekka - Answer [Insane]](http://osu.ppy.sh/b/127047)  
+>       
+>     Tie Breaker :
+> 11.  [Hatsune Miku - Rubik's Cube [7x7x7]](http://osu.ppy.sh/b/114635) </details> <br>    <b>Babak Semifinal</b> <details>
+> 
+> 1.  [SOUND HOLIC - Earthquake Super Shock [0108]](http://osu.ppy.sh/b/120695)
+> 2.  [DystopiaGround - AugoEidEs [Aphotic]](http://osu.ppy.sh/b/97416)
+> 3.  [IOSYS - Usatei 2011 [Ozzy's Extra]](http://osu.ppy.sh/b/130500)
+> 4.  [07th Expansion - rog-limitation [Insane]](http://osu.ppy.sh/b/54581)
+> 5.  [Hatsune Miku - With a Dance Number [0108 style]](http://osu.ppy.sh/b/98415)
+> 6.  [Hommarju feat. R.Cena - Chousai Kenbo Sengen [Insane]](http://osu.ppy.sh/b/99342)
+> 7.  [Shounen Radio - neu [EX]](http://osu.ppy.sh/b/93893)
+> 8.  [Shiraishi - Shinsekai [Insane]](http://osu.ppy.sh/b/83674)
+> 9.  [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice [Another]](http://osu.ppy.sh/b/131009)
+> 10.  [sasakure.UK - Jack-the-Ripper [JackHasCome!]](http://osu.ppy.sh/b/81560)  
+>        	Tie Breaker :
+> 11.  [Sound Horizon - Raijin no Hidariude [Insane]](http://osu.ppy.sh/b/60089) </details> <br>    <b>Babak
+> Perempat Final</b> <details>
+> 
+> 1.  [Prim - Koisuru*Uchuu Sensou!! [Another]](http://osu.ppy.sh/b/144797)
+> 2.  [Fear, and Loathing in Las Vegas - Just Awake [Insane]](http://osu.ppy.sh/b/139446)
+> 3.  [Hatsune Miku & Megpoid Gumi - MATRYOSHKA [Insane]](http://osu.ppy.sh/b/69405)
+> 4.  [kors k - smooooch [Another]](http://osu.ppy.sh/b/64674)
+> 5.  [DJ YOSHITAKA - FLOWER [Intense]](http://osu.ppy.sh/b/104635)
+> 6.  [Masayoshi Minoshima ft. nomico - Bad Apple!! [Extra]](http://osu.ppy.sh/b/42152)
+> 7.  [Daisuke Achiwa - BASARA [BASARA]](http://osu.ppy.sh/b/48416)
+> 8.  [kors k vs. L.E.D. - SOLID STATE SQUAD [Another]](http://osu.ppy.sh/b/92087)
+> 9.  [Rita - Dream Walker [Insane]](http://osu.ppy.sh/b/161611)
+> 10.  [Rex - Heart of Witch [MXStyle]](http://osu.ppy.sh/b/70998)  
+>        	Tie Breaker :
+> 11.  [Lia - Kokoro ni Todoku Uta [Holo]](http://osu.ppy.sh/b/89428) </details> <br>    <b>Babak 16 Besar</b> <details>
+> 
+> 1.  [namapann - Desire Drive [Lunatic]](http://osu.ppy.sh/b/136540)
+> 2.  [Hatsune Miku - Netoge Haijin Sprechchor [Insane]](http://osu.ppy.sh/b/87369)
+> 3.  [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Crazy Jay]](http://osu.ppy.sh/b/91462)
+> 4.  [765PRO ALLSTARS - READY!! [THE OSUM@STER]](http://osu.ppy.sh/b/132903)
+> 5.  [Kozato snow - Rengetsu Ouka [Yuki YukI]](http://osu.ppy.sh/b/89856)
+> 6.  [Dark PHOENiX - Stirring an Autumn Moon [Crazy Moon]](http://osu.ppy.sh/b/59693)
+> 7.  [Nanamori-chu * Goraku-bu - 100%Chu~Gakusei (TV Size) [Insane]](http://osu.ppy.sh/b/159731)
+> 8.  [Tsubaki - Kyun Kyun Tamaran Inaba-tan! [Inaba!]](http://osu.ppy.sh/b/94845)
+> 9.  [Nakagawa Shouko - Happily Ever After [Insane]](http://osu.ppy.sh/b/62591)
+> 10.  [SHK - Weep Irish [Insane]](http://osu.ppy.sh/b/95149)  
+>        	Tie Breaker :
+> 11.  [ave;new project feat. Sakura Saori & Inoue Miyu - Chouetsu Koi Shite Naishomea!! [Hentai]](http://osu.ppy.sh/b/104867) </details>
+> <br>    <b>Pertandingan Ketiga Grup</b> <details>
+> 
+> 1.  [Nobunaga - Shinkai Shoujo [Insane]](http://osu.ppy.sh/b/93680)
+> 2.  [marble - Suisai Candy [Collab]](http://osu.ppy.sh/b/141368)
+> 3.  [07th Expansion - dreamenddischarger [Collab]](http://osu.ppy.sh/b/105891)
+> 4.  [ESTi - SIN [Maximum]](http://osu.ppy.sh/b/66245)
+> 5.  [Kagamine Rin and Len - Trick and Treat [Shuna's MiX]](http://osu.ppy.sh/b/43655)
+> 6.  [Choucho - When the First Love Ends [Collab]](http://osu.ppy.sh/b/86219)
+> 7.  [xi - FREEDOM DiVE [FOUR DIMENSIONS]](http://osu.ppy.sh/b/129891)
+> 8.  [Noisestorm - Shockwave [Quake]](http://osu.ppy.sh/b/110778)
+> 9.  [Tsukasa - The Clear Blue Sky [Insane]](http://osu.ppy.sh/b/69952)
+> 10.  [Pendulum - The Vulture [Insane]](http://osu.ppy.sh/b/82249)
+> 11.  [Zektbach - Raison d'etre [Another]](http://osu.ppy.sh/b/88160)  
+>       
+>     Tie Breaker :
+> 12.  [ave;new feat. Avenew Project - Lovely Angel!! [Angel Arrow]](http://osu.ppy.sh/b/75202) </details> <br>    <b>Pertandingan
+> Kedua Grup</b> <details>
+> 
+> 1.  [Ushirokara Haiyoritai G - Taiyou Iwaku Moeyo Chaos (TV Size) [Insane]](http://osu.ppy.sh/b/150057)
+> 2.  [Hatsune Miku - Vegetable Juice (Po Pi Po) Ryu Remix [animask's Juice]](http://osu.ppy.sh/b/57735)
+> 3.  [07th Expansion - miragecoordinator [Hard]](http://osu.ppy.sh/b/102426)
+> 4.  [Rita - Haru Hana no Iro [Insane]](http://osu.ppy.sh/b/135109)
+> 5.  [_yoc - Crescendo [happy30]](http://osu.ppy.sh/b/39421)
+> 6.  [Choucho - Kawaru Mirai [Collab]](http://osu.ppy.sh/b/122740)
+> 7.  [M2U - Seeker [SC]](http://osu.ppy.sh/b/50013)
+> 8.  [HHH (Ryu & Dai) - So Fabulous!! [Another]](http://osu.ppy.sh/b/57510)
+> 9.  [Sekirei - I'm With You [Insane]](http://osu.ppy.sh/b/77421)
+> 10.  [ZUN - Reach for The Moon, Immortal Smoke [Lunatic]](http://osu.ppy.sh/b/33535)  
+>       
+>     Tie Breaker :
+> 11.  [Innocent Key - Rabucchu * Chireiden [Insane]](http://osu.ppy.sh/b/75301) </details> <br>   
+> <b>Pertandingan Pertama Grup</b> <details>
+> 
+> 1.  [Kitamura Eri - Happy Girl (TV Size) [Insane]](http://osu.ppy.sh/b/139170)
+> 2.  [SYNC.ART'S - Sword of Valiant [Insane]](http://osu.ppy.sh/b/84475)
+> 3.  [Carlito - Who's That Boy [Hard]](http://osu.ppy.sh/b/107035)
+> 4.  [Kugimiya Rie, Horie Yui, Kitamura Eri - Orange -citrus mix- [Grapefruit]](http://osu.ppy.sh/b/36945)
+> 5.  [ESTi - Oblivion [Maximum]](http://osu.ppy.sh/b/71102)
+> 6.  [Nekomata Master - Goodbye Heaven [Another]](http://osu.ppy.sh/b/48926)
+> 7.  [REDALiCE - Rapture [Lunatic]](http://osu.ppy.sh/b/69396)
+> 8.  [Sum 41 - The Hell Song [Hard]](http://osu.ppy.sh/b/81227)
+> 9.  [La Cataline - Chaotic [Hard]](http://osu.ppy.sh/b/77325)
+> 10.  [Hatsune Miku - Nisoku Hokou [Insane]](http://osu.ppy.sh/b/74061)  
+>       
+>     Tie Breaker :
+> 11.  [Baracuda - La Di Da (Nightcore Mix) [La Di Da]](http://osu.ppy.sh/b/63499)
 
-1.  [SOUND HOLIC - Earthquake Super Shock [0108]](http://osu.ppy.sh/b/120695)
-2.  [DystopiaGround - AugoEidEs [Aphotic]](http://osu.ppy.sh/b/97416)
-3.  [IOSYS - Usatei 2011 [Ozzy's Extra]](http://osu.ppy.sh/b/130500)
-4.  [07th Expansion - rog-limitation [Insane]](http://osu.ppy.sh/b/54581)
-5.  [Hatsune Miku - With a Dance Number [0108 style]](http://osu.ppy.sh/b/98415)
-6.  [Hommarju feat. R.Cena - Chousai Kenbo Sengen [Insane]](http://osu.ppy.sh/b/99342)
-7.  [Shounen Radio - neu [EX]](http://osu.ppy.sh/b/93893)
-8.  [Shiraishi - Shinsekai [Insane]](http://osu.ppy.sh/b/83674)
-9.  [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice [Another]](http://osu.ppy.sh/b/131009)
-10.  [sasakure.UK - Jack-the-Ripper [JackHasCome!]](http://osu.ppy.sh/b/81560)  
-      
-	Tie Breaker :
-11.  [Sound Horizon - Raijin no Hidariude [Insane]](http://osu.ppy.sh/b/60089)
-</details>
-<br>
-  
-<b>Babak Perempat Final</b>
-<details>
-
-1.  [Prim - Koisuru*Uchuu Sensou!! [Another]](http://osu.ppy.sh/b/144797)
-2.  [Fear, and Loathing in Las Vegas - Just Awake [Insane]](http://osu.ppy.sh/b/139446)
-3.  [Hatsune Miku & Megpoid Gumi - MATRYOSHKA [Insane]](http://osu.ppy.sh/b/69405)
-4.  [kors k - smooooch [Another]](http://osu.ppy.sh/b/64674)
-5.  [DJ YOSHITAKA - FLOWER [Intense]](http://osu.ppy.sh/b/104635)
-6.  [Masayoshi Minoshima ft. nomico - Bad Apple!! [Extra]](http://osu.ppy.sh/b/42152)
-7.  [Daisuke Achiwa - BASARA [BASARA]](http://osu.ppy.sh/b/48416)
-8.  [kors k vs. L.E.D. - SOLID STATE SQUAD [Another]](http://osu.ppy.sh/b/92087)
-9.  [Rita - Dream Walker [Insane]](http://osu.ppy.sh/b/161611)
-10.  [Rex - Heart of Witch [MXStyle]](http://osu.ppy.sh/b/70998)  
-      
-	Tie Breaker :
-11.  [Lia - Kokoro ni Todoku Uta [Holo]](http://osu.ppy.sh/b/89428)
-</details>
-<br>
-  
-<b>Babak 16 Besar</b>
-<details>
-
-1.  [namapann - Desire Drive [Lunatic]](http://osu.ppy.sh/b/136540)
-2.  [Hatsune Miku - Netoge Haijin Sprechchor [Insane]](http://osu.ppy.sh/b/87369)
-3.  [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Crazy Jay]](http://osu.ppy.sh/b/91462)
-4.  [765PRO ALLSTARS - READY!! [THE OSUM@STER]](http://osu.ppy.sh/b/132903)
-5.  [Kozato snow - Rengetsu Ouka [Yuki YukI]](http://osu.ppy.sh/b/89856)
-6.  [Dark PHOENiX - Stirring an Autumn Moon [Crazy Moon]](http://osu.ppy.sh/b/59693)
-7.  [Nanamori-chu * Goraku-bu - 100%Chu~Gakusei (TV Size) [Insane]](http://osu.ppy.sh/b/159731)
-8.  [Tsubaki - Kyun Kyun Tamaran Inaba-tan! [Inaba!]](http://osu.ppy.sh/b/94845)
-9.  [Nakagawa Shouko - Happily Ever After [Insane]](http://osu.ppy.sh/b/62591)
-10.  [SHK - Weep Irish [Insane]](http://osu.ppy.sh/b/95149)  
-      
-	Tie Breaker :
-11.  [ave;new project feat. Sakura Saori & Inoue Miyu - Chouetsu Koi Shite Naishomea!! [Hentai]](http://osu.ppy.sh/b/104867)
-</details>
-<br>
-  
-<b>Pertandingan Ketiga Grup</b>
-<details>
-
-1.  [Nobunaga - Shinkai Shoujo [Insane]](http://osu.ppy.sh/b/93680)
-2.  [marble - Suisai Candy [Collab]](http://osu.ppy.sh/b/141368)
-3.  [07th Expansion - dreamenddischarger [Collab]](http://osu.ppy.sh/b/105891)
-4.  [ESTi - SIN [Maximum]](http://osu.ppy.sh/b/66245)
-5.  [Kagamine Rin and Len - Trick and Treat [Shuna's MiX]](http://osu.ppy.sh/b/43655)
-6.  [Choucho - When the First Love Ends [Collab]](http://osu.ppy.sh/b/86219)
-7.  [xi - FREEDOM DiVE [FOUR DIMENSIONS]](http://osu.ppy.sh/b/129891)
-8.  [Noisestorm - Shockwave [Quake]](http://osu.ppy.sh/b/110778)
-9.  [Tsukasa - The Clear Blue Sky [Insane]](http://osu.ppy.sh/b/69952)
-10.  [Pendulum - The Vulture [Insane]](http://osu.ppy.sh/b/82249)
-11.  [Zektbach - Raison d'etre [Another]](http://osu.ppy.sh/b/88160)  
-      
-    Tie Breaker :
-12.  [ave;new feat. Avenew Project - Lovely Angel!! [Angel Arrow]](http://osu.ppy.sh/b/75202)
-</details>
-<br>
-  
-<b>Pertandingan Kedua Grup</b>
-<details>
-
-1.  [Ushirokara Haiyoritai G - Taiyou Iwaku Moeyo Chaos (TV Size) [Insane]](http://osu.ppy.sh/b/150057)
-2.  [Hatsune Miku - Vegetable Juice (Po Pi Po) Ryu Remix [animask's Juice]](http://osu.ppy.sh/b/57735)
-3.  [07th Expansion - miragecoordinator [Hard]](http://osu.ppy.sh/b/102426)
-4.  [Rita - Haru Hana no Iro [Insane]](http://osu.ppy.sh/b/135109)
-5.  [_yoc - Crescendo [happy30]](http://osu.ppy.sh/b/39421)
-6.  [Choucho - Kawaru Mirai [Collab]](http://osu.ppy.sh/b/122740)
-7.  [M2U - Seeker [SC]](http://osu.ppy.sh/b/50013)
-8.  [HHH (Ryu & Dai) - So Fabulous!! [Another]](http://osu.ppy.sh/b/57510)
-9.  [Sekirei - I'm With You [Insane]](http://osu.ppy.sh/b/77421)
-10.  [ZUN - Reach for The Moon, Immortal Smoke [Lunatic]](http://osu.ppy.sh/b/33535)  
-      
-    Tie Breaker :
-11.  [Innocent Key - Rabucchu * Chireiden [Insane]](http://osu.ppy.sh/b/75301)
-</details>
-<br>
-  
-<b>Pertandingan Pertama Grup</b>
-<details>
-
-1.  [Kitamura Eri - Happy Girl (TV Size) [Insane]](http://osu.ppy.sh/b/139170)
-2.  [SYNC.ART'S - Sword of Valiant [Insane]](http://osu.ppy.sh/b/84475)
-3.  [Carlito - Who's That Boy [Hard]](http://osu.ppy.sh/b/107035)
-4.  [Kugimiya Rie, Horie Yui, Kitamura Eri - Orange -citrus mix- [Grapefruit]](http://osu.ppy.sh/b/36945)
-5.  [ESTi - Oblivion [Maximum]](http://osu.ppy.sh/b/71102)
-6.  [Nekomata Master - Goodbye Heaven [Another]](http://osu.ppy.sh/b/48926)
-7.  [REDALiCE - Rapture [Lunatic]](http://osu.ppy.sh/b/69396)
-8.  [Sum 41 - The Hell Song [Hard]](http://osu.ppy.sh/b/81227)
-9.  [La Cataline - Chaotic [Hard]](http://osu.ppy.sh/b/77325)
-10.  [Hatsune Miku - Nisoku Hokou [Insane]](http://osu.ppy.sh/b/74061)  
-      
-    Tie Breaker :
-11.  [Baracuda - La Di Da (Nightcore Mix) [La Di Da]](http://osu.ppy.sh/b/63499)
 </details>
 </details>
 <br>
