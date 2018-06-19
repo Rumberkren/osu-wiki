@@ -336,7 +336,8 @@ sponsored by  [zeroclover](http://osu.ppy.sh/u/zeroclover), [t](http://osu.ppy.s
 <br>
   
 **GRUP**  
-  
+<details>
+	
 **Group A :** [Frizz925](http://osu.ppy.sh/u/Frizz925)  /  [dNextGen](http://osu.ppy.sh/u/dNextGen)  /  [Hakeru Prismriver](http://osu.ppy.sh/u/Hakeru%20Prismriver)  /  [JT123](http://osu.ppy.sh/u/JT123)  
 **Group B :** [lufi10](http://osu.ppy.sh/u/lufi10)  /  [WVS](http://osu.ppy.sh/u/WVS)  /  [- t e n n y a -](http://osu.ppy.sh/u/-%20t%20e%20n%20n%20y%20a%20-)  /  [Sakuya Aizawa](http://osu.ppy.sh/u/Sakuya%20Aizawa)  
 **Group C :** [uzumaki kun](http://osu.ppy.sh/u/uzumaki%20kun)  /  [paitehoens](http://osu.ppy.sh/u/paitehoens)  /  [frans_niko](http://osu.ppy.sh/u/frans_niko)  /  [Lincolm](http://osu.ppy.sh/u/Lincolm)  
@@ -345,7 +346,8 @@ sponsored by  [zeroclover](http://osu.ppy.sh/u/zeroclover), [t](http://osu.ppy.s
 **Group F :** [Ableh_ZZZ](http://osu.ppy.sh/u/Ableh_ZZZ)  /  [Indra145](http://osu.ppy.sh/u/Indra145)  /  [Kartika](http://osu.ppy.sh/u/Kartika)  /  [Takaichi](http://osu.ppy.sh/u/Takaichi)  
 **Group G :** [pacmanmania](http://osu.ppy.sh/u/pacmanmania)  /  [-misaki_hiromu-](http://osu.ppy.sh/u/-misaki_hiromu-)  /  [inverness](http://osu.ppy.sh/u/inverness)  /  [rizqy96](http://osu.ppy.sh/u/rizqy96)  
 **Group H :** [Childofthesky](http://osu.ppy.sh/u/Childofthesky)  /  [Gatyaa](http://osu.ppy.sh/u/Gatyaa)  /  hanalicious /  [cahcuy](http://osu.ppy.sh/u/cahcuy)
-
+</details>
+<br>
   
   
 **Panitia**  
